@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar {
+  background-color: #1f2533;
+}
+a.navbar-brand {
+  color:#fff;
+}
+.nav-item {
+  color:#fff;
+}
+.blue{
+  color:blue;
+}
+.red {
+  color:red;
+}
